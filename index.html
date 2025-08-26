@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Curriculum Vitae – Gifary Setia Putra</title>
+  <!-- Bootstrap CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+  <!-- Bootstrap Icons -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container-fluid">
+    <div class="toolbar">
+      <div class="d-flex align-items-center ms-auto">
+        <span class="me-2">Mode Gelap</span>
+        <div class="theme-toggle" onclick="toggleDarkMode()">
+          <i class="bi bi-sun"></i>
+          <i class="bi bi-moon"></i>
+        </div>
+      </div>
+    </div>
+
+    <div class="cv-container">
+      <!-- Header -->
+      <div class="cv-header">
+        <div class="header-content">
+          <div class="avatar-container">
+            <div class="avatar me-4">
+              <img src="Dokumen/avatar.jpeg" alt="Foto Profil" class="img-fluid rounded">
+            </div>
+          </div>
+          <div class="header-text">
+            <h1 class="mb-1" id="fullName">Gifary Setia Putra</h1>
+            <div class="h4 mb-0" id="jobTitle">HSE (Health, Safety, and Environment)</div>
+            <div class="mt-2 d-flex flex-wrap" id="badgesContainer">
+              <span class="badge bg-accent text-white me-2 mb-1">Ahli K3 Umum</span>
+              <span class="badge bg-accent text-white me-2 mb-1">PPPA</span>
+              <span class="badge bg-accent text-white me-2 mb-1">Fire Fighter</span>
+              <span class="badge bg-accent text-white mb-1">8+ Tahun Pengalaman</span>
+            </div>
+          </div>
+        </div>
+        <div class="header-background">
+          <div class="bg-shape shape-1"></div>
+          <div class="bg-shape shape-2"></div>
+          <div class="bg-shape shape-3"></div>
+        </div>
+      </div>
+
+      <!-- SPA Navigation -->
+      <div class="spa-nav">
+        <ul class="nav justify-content-center flex-wrap">
+          <li class="nav-item">
+            <a class="nav-link active" href="#" data-section="overview">
+              <i class="bi bi-house-door"></i> Ringkasan
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#" data-section="experience">
+              <i class="bi bi-briefcase"></i> Pengalaman
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#" data-section="skills">
+              <i class="bi bi-tools"></i> Keahlian
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#" data-section="education">
+              <i class="bi bi-mortarboard"></i> Pendidikan
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#" data-section="certifications">
+              <i class="bi bi-award"></i> Sertifikasi
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#" data-section="projects">
+              <i class="bi bi-kanban"></i> Proyek
+            </a>
+          </li>
+        </ul>
+      </div>
+
+      <!-- SPA Sections -->
+      <div class="spa-sections p-4">
+        <!-- Overview Section -->
+        <div class="section active" id="overview-section">
+          <div class="row">
+            <!-- LEFT COLUMN -->
+            <div class="col-lg-6">
+              <!-- Contact Info -->
+              <div class="card card-custom">
+                <div class="card-body">
+                  <h5 class="section-title"><i class="bi bi-person-lines-fill"></i> Informasi Kontak</h5>
+                  <div id="contactInfoContainer">
+                    <!-- Data akan diisi oleh JavaScript -->
+                  </div>
+                </div>
+              </div>
+
+              <!-- Profile Summary -->
+              <div class="card card-custom">
+                <div class="card-body">
+                  <h5 class="section-title"><i class="bi bi-person-badge-fill"></i> Ringkasan Profil</h5>
+                  <p class="card-text" id="profileSummary">
+                    <!-- Data akan diisi oleh JavaScript -->
+                  </p>
+                </div>
+              </div>
+
+              <!-- Languages -->
+              <div class="card card-custom">
+                <div class="card-body">
+                  <h5 class="section-title"><i class="bi bi-translate"></i> Bahasa</h5>
+                  <div class="list-grid" id="languagesContainer">
+                    <!-- Data akan diisi oleh JavaScript -->
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <!-- RIGHT COLUMN -->
+            <div class="col-lg-6">
+              <!-- Main Skills -->
+              <div class="card card-custom">
+                <div class="card-body">
+                  <h5 class="section-title"><i class="bi bi-tools"></i> Keahlian Utama</h5>
+                  <div id="mainSkillsContainer">
+                    <!-- Data akan diisi oleh JavaScript -->
+                  </div>
+                </div>
+              </div>
+
+              <!-- Skills Level -->
+              <div class="card card-custom">
+                <div class="card-body">
+                  <h5 class="section-title"><i class="bi bi-bar-chart-fill"></i> Keterampilan (Level)</h5>
+                  <div id="skillsLevelContainer">
+                    <!-- Data akan diisi oleh JavaScript -->
+                  </div>
+                </div>
+              </div>
+
+              <!-- Certifications -->
+              <div class="card card-custom">
+                <div class="card-body">
+                  <h5 class="section-title"><i class="bi bi-award-fill"></i> Sertifikasi</h5>
+                  <ul class="list-group list-group-flush" id="certificationsContainer">
+                    <!-- Data akan diisi oleh JavaScript -->
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Experience Section -->
+        <div class="section" id="experience-section">
+          <div class="card card-custom">
+            <div class="card-body">
+              <h5 class="section-title"><i class="bi bi-briefcase-fill"></i> Pengalaman Kerja</h5>
+              <div id="workExperienceContainer">
+                <!-- Data akan diisi oleh JavaScript -->
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Skills Section -->
+        <div class="section" id="skills-section">
+          <div class="row">
+            <div class="col-md-6">
+              <div class="card card-custom">
+                <div class="card-body">
+                  <h5 class="section-title"><i class="bi bi-tools"></i> Keahlian Utama</h5>
+                  <div id="mainSkillsContainer2">
+                    <!-- Data akan diisi oleh JavaScript -->
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div class="card card-custom">
+                <div class="card-body">
+                  <h5 class="section-title"><i class="bi bi-bar-chart-fill"></i> Keterampilan (Level)</h5>
+                  <div id="skillsLevelContainer2">
+                    <!-- Data akan diisi oleh JavaScript -->
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Education Section -->
+        <div class="section" id="education-section">
+          <div class="card card-custom">
+            <div class="card-body">
+              <h5 class="section-title"><i class="bi bi-mortarboard-fill"></i> Pendidikan</h5>
+              <div id="educationContainer">
+                <!-- Data akan diisi oleh JavaScript -->
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Certifications Section -->
+        <div class="section" id="certifications-section">
+          <div class="card card-custom">
+            <div class="card-body">
+              <h5 class="section-title"><i class="bi bi-award-fill"></i> Sertifikasi</h5>
+              <div class="row" id="certificationsGridContainer">
+                <!-- Data akan diisi oleh JavaScript -->
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Projects Section -->
+        <div class="section" id="projects-section">
+          <div class="card card-custom">
+            <div class="card-body">
+              <h5 class="section-title"><i class="bi bi-kanban-fill"></i> Proyek</h5>
+              <div id="projectsContainer">
+                <!-- Data akan diisi oleh JavaScript -->
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Floating button -->
+  <div class="floating-btn" onclick="scrollToTop()">
+    <i class="bi bi-arrow-up"></i>
+  </div>
+
+  <!-- Bootstrap JS -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>

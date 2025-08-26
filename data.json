@@ -1,0 +1,296 @@
+{
+  "personalInfo": {
+    "fullName": "Gifary Setia Putra",
+    "jobTitle": "HSE (Health, Safety, and Environment)",
+    "badges": ["Ahli K3 Umum", "PPPA", "Fire Fighter", "8+ Tahun Pengalaman"]
+  },
+  "contactInfo": [
+    {
+      "icon": "bi bi-geo-alt-fill",
+      "text": "Jl. Hegarmanah II, gg. Masjid, Kp. Rancatiis, Ds. Galanggang, Kec. Batujajar, Kab. Bandung Barat"
+    },
+    {
+      "icon": "bi bi-envelope-fill",
+      "text": "gifarysetia10@gmail.com",
+      "url": "mailto:gifarysetia10@gmail.com"
+    },
+    {
+      "icon": "bi bi-telephone-fill",
+      "text": "+62 838-2905-8640",
+      "url": "tel:+6281234567890"
+    },
+    {
+      "icon": "bi bi-linkedin",
+      "text": "linkedin.com/in/gifary10",
+      "url": "https://linkedin.com/in/gifary10"
+    }
+  ],
+  "profileSummary": "Profesional HSE berpengalaman lebih dari 8 tahun di berbagai sektor industri dengan rekam jejak dalam membangun budaya kerja yang aman dan berkelanjutan. Ahli dalam pengembangan & implementasi sistem manajemen K3 (SMK3, ISO 45001:2018), penilaian risiko, audit keselamatan, serta pelatihan & peningkatan kompetensi karyawan.Terbukti mampu memastikan kepatuhan terhadap regulasi K3 dan lingkungan, sekaligus berkontribusi nyata dalam penurunan angka insiden kerja dan peningkatan produktivitas operasional.",
+  "languages": [
+    {
+      "name": "Bahasa Sunda",
+      "level": "Penutur Asli (Native)"
+    },
+    {
+      "name": "Bahasa Indonesia",
+      "level": "Bahasa Ibu / Nasional"
+    },
+    {
+      "name": "Inggris",
+      "level": "Menengah (Intermediate)"
+    }
+  ],
+  "mainSkills": [
+    "Manajemen Risiko K3",
+    "Audit Keselamatan",
+    "Investigasi Insiden & Root Cause Analysis",
+    "Sistem Manajemen K3 (SMK3, ISO 45001:2018)",
+    "Pelatihan & Pengembangan Kompetensi K3",
+    "Kepatuhan Regulasi & Legal Compliance",
+    "Emergency Response & Fire Safety",
+    "Analisis Data & Pelaporan K3",
+    "Pengelolaan Lingkungan (ISO 14001:2015)",
+    "Pencegahan Pencemaran & Limbah B3",
+    "Health Surveillance & Ergonomi",
+    "Contractor Safety Management",
+    "Safety Leadership & Safety Culture Development"
+  ],
+  "skillsLevel": [
+    {
+      "name": "Manajemen Risiko K3",
+      "level": "Expert",
+      "percentage": 95
+    },
+    {
+      "name": "Audit Keselamatan",
+      "level": "Advanced",
+      "percentage": 90
+    },
+    {
+      "name": "Sistem Manajemen K3 (SMK3 & ISO 45001:2018)",
+      "level": "Expert",
+      "percentage": 94
+    },
+    {
+      "name": "Investigasi Insiden & Root Cause Analysis",
+      "level": "Advanced",
+      "percentage": 92
+    },
+    {
+      "name": "Kepatuhan Regulasi & Legal Compliance",
+      "level": "Expert",
+      "percentage": 96
+    },
+    {
+      "name": "Emergency Response & Fire Safety",
+      "level": "Advanced",
+      "percentage": 89
+    },
+    {
+      "name": "Pelatihan & Pengembangan K3",
+      "level": "Advanced",
+      "percentage": 88
+    },
+    {
+      "name": "Pengelolaan Lingkungan (ISO 14001:2015)",
+      "level": "Advanced",
+      "percentage": 86
+    },
+    {
+      "name": "Pencegahan Pencemaran & Limbah B3",
+      "level": "Intermediate",
+      "percentage": 80
+    },
+    {
+      "name": "Analisis Data & Pelaporan K3",
+      "level": "Intermediate",
+      "percentage": 78
+    },
+    {
+      "name": "Safety Leadership & Safety Culture Development",
+      "level": "Advanced",
+      "percentage": 90
+    }
+  ],
+  "workExperience": [
+    {
+      "company": "PT. MONOKEM SURYA",
+      "position": "HSE & 5R Staff",
+      "period": "SEPTEMBER 2024 - PRESENT",
+      "responsibilities": [
+        "Safety Patrol and Daily 5R",
+    "Implement SMK3",
+    "Implement ISO 45001",
+    "Implement P2K3",
+    "Implement TKTD",
+    "Distribution PPE to all employees",
+    "Training SCBA, APAR, Oxycan and Oxygen to all employees",
+    "Safety Talk to employees at every shift change",
+    "Work permits (internal or external: vendor, contractor, etc)",
+    "JSA Controlling",
+    "HIRA Controlling",
+    "Handling regular medical checkup (annual)",
+    "Controlling medical records from hospitals",
+    "Investigating and reporting workplace accidents",
+    "Ensuring work instructions are carried out properly",
+    "Ensuring that the SOP is followed properly",
+    "Providing first aid equipment and medications for employees",
+    "Inspection and testing of OHS equipment",
+    "Inspection and testing of the work environment",
+    "Handling report and administration in office about HSE"
+      ]
+    },
+    {
+      "company": "PT. CALBEE WINGS FOOD",
+      "position": "HSE Staff",
+      "period": "FEBRUARY 2023 - AUGUST 2024",
+      "responsibilities": [
+        "Safety Patrol UA/UC - Daily",
+    "Training Safety Awareness to all employees",
+    "Training Basic Safety to all employees",
+    "Training 5S to all employees",
+    "Training APAR and Hydrant to all employees",
+    "Safety Induction to Visitor and Contractor",
+    "Safety Talk to employees",
+    "Identification Hazard and Risk",
+    "Performing mitigation measures whenever an incident is encountered",
+    "Report P2K3 every 3 months",
+    "Checklist APAR every month",
+    "Checklist Hydrant every month",
+    "Internal Audit 5S Monthly All Area",
+    "Handling report SIMPEL KLHK",
+    "Monitoring Chimney",
+    "Monitoring QC PIT output WWTP",
+    "Monitoring LB2 and LB3",
+    "Inspect Canteen every month",
+    "Handling In House Clinic",
+    "Handling Security",
+    "Handling Regular Medical Checkup",
+    "Handling Healthy Activities (Tournament Sport)",
+    "Handling report and administration in office about HSE"
+      ]
+    },
+    {
+      "company": "UPTD PENGAWASAN KETENAGAKERJAAN WILAYAH II",
+      "position": "Staff Admin K3",
+      "period": "FEBRUARY 2018 - JANUARY 2023",
+      "responsibilities": [
+        "Receiving workplace accident reports from the company",
+    "Coordinating with the BPJS Employment Agency",
+    "Coordinating with the hospital",
+    "Preparing monthly HSE reports",
+    "Compiling workplace accident data",
+    "Compiling P2K3 reports",
+    "Compiling company health service reports",
+    "Compiling HSE equipment records",
+    "Organizing HSE award activities",
+    "Creating documents for HSE compliance certificates"
+      ]
+    },
+    {
+      "company": "PT. INTI KONTEN INDONESIA",
+      "position": "Commissioning Server CCTV",
+      "period": "NOVEMBER 2017 - JANUARY 2018",
+      "responsibilities": [
+        "Configuring the CCTV server",
+"Ensuring CCTV functionality through the internet network",
+"Performing troubleshooting in case of system failure",
+"Preparing activity reports"
+       ]
+    },
+    {
+      "company": "PT. KERETA API INDONESIA",
+      "position": "IT Support",
+      "period": "FEBRUARY 2016 - MARET 2016",
+      "responsibilities": [
+        "Handle Troubleshooting Komputer",
+"Handle Troubleshooting Jaringan",
+"Instalasi Software",
+"dll yang berkaitan dengan jaringan internet"
+       
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "UNIVERSITAS BSI - Bandung",
+      "degree": "Sarjana Teknik Informatika",
+      "period": "2013 - 2017",
+      "gpa": "3.41/4.00"
+    },
+    {
+      "institution": "SMA NEGERI 1 BATUJAJAR - Bandung Barat",
+      "degree": "SMA",
+      "period": "2010 - 2013",
+      "gpa": "-"
+    },
+    {
+      "institution": "SMP NEGERI 1 BATUJAJAR - Bandung Barat",
+      "degree": "SMP",
+      "period": "2007 - 2010",
+      "gpa": "-"
+    },
+    {
+      "institution": "SD NEGERI 3 GALANGGANG - Bandung Barat",
+      "degree": "SD",
+      "period": "2001 - 2007",
+      "gpa": "-"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Ahli K3 Umum",
+      "issuer": "Kementerian Ketenagakerjaan RI",
+      "year": "2022",
+      "credentialId": "-"
+    },
+    {
+      "name": "Training Of Trainer",
+      "issuer": "Wings Group Corporation",
+      "year": "2023"
+    },
+    {
+      "name": "Penanggung Jawab Pengendalian Pencemaran Air",
+      "issuer": "National Professional Certification Board (BNSP)",
+      "year": "2025"
+    },
+    {
+      "name": "Fire Fighter - D Class",
+      "issuer": "Kementerian Ketenagakerjaan RI",
+      "year": "2025"
+    }
+  ],
+  "projects": [
+  {
+    "name": "Implementasi Sistem Manajemen K3 & ISO 45001",
+    "description": "Memimpin implementasi SMK3 dan berhasil mendapatkan sertifikasi ISO 45001:2018 di perusahaan manufaktur dengan lebih dari 500 karyawan.",
+    "period": "2020 - 2021",
+    "technologies": ["ISO 45001", "SMK3", "Risk Assessment", "Audit Management", "Documentation System"]
+  },
+  {
+    "name": "Pengembangan Program Keselamatan & 5S",
+    "description": "Mengembangkan program observasi keselamatan berbasis perilaku dan pelatihan 5S yang meningkatkan kepatuhan keselamatan serta budaya kerja tertib dan bersih.",
+    "period": "2019",
+    "technologies": ["Behavior Based Safety", "5S", "Training Program", "Data Analysis"]
+  },
+  {
+    "name": "Digitalisasi Sistem Pelaporan Insiden",
+    "description": "Membangun sistem pelaporan insiden digital untuk mempercepat pelacakan, investigasi, dan analisis insiden kecelakaan kerja.",
+    "period": "2022",
+    "technologies": ["Digital Transformation", "Incident Management", "Data Visualization"]
+  },
+  {
+    "name": "Monitoring Lingkungan & Pengendalian Limbah",
+    "description": "Mengelola pemantauan cerobong, limbah B3, dan QC PIT output WWTP serta memastikan kepatuhan terhadap pelaporan SIMPEL KLHK.",
+    "period": "2023 - 2024",
+    "technologies": ["Environmental Monitoring", "SIMPEL KLHK", "Wastewater Management", "Air Emission Control"]
+  },
+  {
+    "name": "Penyusunan Laporan & Administrasi HSE",
+    "description": "Menyusun laporan HSE bulanan, laporan P2K3, serta data kecelakaan kerja untuk instansi pemerintah dan internal perusahaan.",
+    "period": "2018 - 2023",
+    "technologies": ["Reporting System", "P2K3", "Accident Data Analysis", "BPJS Coordination"]
+  }
+]
+
+}
